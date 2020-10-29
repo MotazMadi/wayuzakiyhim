@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">wayuzakiyhim</string>
+    <string name="welcome_screen_Application_name">WAYUZAKIYHIM</string>
+    <string name="welcome_screen_welcome">Welcome to the student follow-up program</string>
+    <string name="Register1_tev_Categories">Choose the right category</string>
+    <string name="Register1_butt_center">center</string>
+    <string name="Register1_butt_Wallet">Wallet</string>
+    <string name="Register1_butt_parentis">parentis</string>
+    <string name="Register2_edt_user">USER NAME</string>
+    <string name="Register2_edt_password">PASSWORD</string>
+    <string name="Register2_btn_login">LOGIN</string>
+    <string name="Register2_btn_signup">SIGN UP</string>
+
+</resources>

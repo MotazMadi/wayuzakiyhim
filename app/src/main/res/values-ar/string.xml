@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ويزكيهم</string>
+    <string name="welcome_screen_Application_name">ويزكيهم</string>
+    <string name="welcome_screen_welcome">مرحباً بك في برنامج متابعة الطالب</string>
+    <string name="Register1_tev_Categories">اختر الفئة المناسبة</string>
+    <string name="Register1_butt_center">المركز</string>
+    <string name="Register1_butt_Wallet">المحفظ</string>
+    <string name="Register1_butt_parentis">ولي أمر</string>
+    <string name="Register2_edt_user">اسم المستخدم</string>
+    <string name="Register2_edt_password">كلمة السر</string>
+    <string name="Register2_btn_login">تسجيل دخول</string>
+    <string name="Register2_btn_signup">حساب جديد</string>
+</resources>
