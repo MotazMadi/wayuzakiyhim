@@ -24,7 +24,7 @@
     <EditText
         android:id="@+id/Register2_edt_user"
         android:layout_width="0dp"
-        android:layout_height="50dp"
+        android:layout_height="60dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="44dp"
@@ -43,7 +43,7 @@
     <EditText
         android:id="@+id/Register2_edt_password"
         android:layout_width="0dp"
-        android:layout_height="50dp"
+        android:layout_height="60dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="36dp"
